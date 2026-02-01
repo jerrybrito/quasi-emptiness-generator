@@ -1,0 +1,2 @@
+# Requires: future-gap
+# (Not available on PyPI)
